@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesley Freire</h1>
-<h3 align="center">um desenvolvedor Back-End iniciante</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=getwes&label=Profile%20views&color=0e75b6&style=flat-square" alt="getwes" /> </p>
   <br>
